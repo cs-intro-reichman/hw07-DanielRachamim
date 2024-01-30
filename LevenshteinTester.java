@@ -4,6 +4,7 @@ public class LevenshteinTester {
         if (args.length != 2) {
             System.out.println("Usage: java LevenshteinTester <word1> <word2>");
             return;
+
         }
 
         String word1 = args[0];
